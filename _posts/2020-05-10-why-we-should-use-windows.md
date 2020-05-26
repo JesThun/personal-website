@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+author: Yasin İsa YILDIRIM
 title: "Why We Should Use the Windows Operating System?"
 tags: 100DaysToOffload
 ---
