@@ -23,10 +23,10 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    archived: false
-    forks: true
+    archived: true
+    forks: false
     projects:
-    # - repo-name
+     - redsfyre.github.io
 
 social_media:
   # behance: your_username
@@ -43,7 +43,7 @@ social_media:
     twitter: JesThun
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+    website: yasinisayildirim.com.tr
   # youtube: your_username
 
 topics:
