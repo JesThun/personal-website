@@ -26,20 +26,20 @@ projects:
     archived: true
     forks: false
     projects:
-     - redsfyre.github.io
+    # - redsfyre.github.io
 
 social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
+    mastodon: yildirim
+    telegram: redsfyre
     instagram: yasin_isa_yildirim
   # keybase: your_username
     linkedin: yasin-isa-yildirim
-    mastodon: yildirim
     medium: yasinisayildirim
   # stackoverflow: your_user_id
-    telegram: redsfyre
     twitter: JesThun
   # unsplash: your_username
   # vk: your_username
