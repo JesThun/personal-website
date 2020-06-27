@@ -1,8 +1,8 @@
-linuc Mint 20'yi yayınlamaya neredeyse hazırız. 
+Linux Mint 20'yi yayınlamaya neredeyse hazırız. 
 Bu sürümün ardından bir sonraki geliştirme döngüsüne geçmeden önce 
 Linux Mint 19.3'ü yükseltilmesi ve LMDE 4'teki yeni özelliklerini bağlanmasında çalışmak 2 hafta sürecek.
 
-BETA'ya katılan herkese teşekkür etmek istiyorum. Katılımıznı sayesinde çok sayıda geribildirim aldık ve çok önemli hataları giderebildik. 
+BETA'ya katılan herkese teşekkür etmek istiyorum. Katılımınız sayesinde çok sayıda geribildirim aldık ve çok önemli hataları giderebildik. 
 167 rapor işlendi. 
 Diğer önemli değişikliklerin yanı sıra Cinnamon fraksiyonel ölçeklendirme daha sezgisel hale getirildi, 
 birçok çeviri sorunu çözüldü, 
