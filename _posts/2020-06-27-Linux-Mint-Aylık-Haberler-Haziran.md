@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: ""
+title: "Linux Mint Aylık Bülten - Haziran"
 tags: 
 ---
 
