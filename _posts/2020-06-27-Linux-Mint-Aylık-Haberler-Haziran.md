@@ -1,3 +1,12 @@
+---
+layout: post
+published: true
+title: ""
+tags: 
+---
+
+# Linux Mint Aylık Bülten - Haziran
+
 Linux Mint 20'yi yayınlamaya neredeyse hazırız. 
 Bu sürümün ardından bir sonraki geliştirme döngüsüne geçmeden önce 
 Linux Mint 19.3'ü yükseltilmesi ve LMDE 4'teki yeni özelliklerini bağlanmasında çalışmak 2 hafta sürecek.
@@ -22,6 +31,6 @@ Ayda 700'den fazla bağış alıyoruz.
 Zor kararlar verdiğimizde güveninizi ve desteğinizi de hissediyoruz. Bizi güçlendiriyorsunuz ve ne yapmak istediğimize, 
 kim olmak istediğimize ve dağıtım olarak nereye gitmek istediğimize daha iddialı bir şekilde odaklanmamızı sağlıyorsunuz.
 
-Her sürüm bir başarı ve kutlamadır. Umarım bu yeni sürümler öncekiler kadar başarılı olıur ve umarım bunları kullanırken çok eğlenirsiniz.
+Her sürüm bir başarı ve kutlamadır. Umarım bu yeni sürümler öncekiler kadar başarılı olur ve umarım bunları kullanırken çok eğlenirsiniz.
 
 Kaynak: [Linux Mint Blog - Monthly News - June](https://blog.linuxmint.com/?p=3926)
